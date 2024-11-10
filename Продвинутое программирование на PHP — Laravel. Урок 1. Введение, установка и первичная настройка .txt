@@ -1,5 +1,5 @@
 Приветствую. Студент Евгений Пахомов.
-Урок 1. Введение, установка и первичная настройка
+Урок 3. Работа с базами данных. ORM-система Eloquent
 
 Мой репозиторий (github.com):
-https://github.com/nightmare301986/GB-Laravel1-2/tree/main
+https://github.com/nightmare301986/GB-Laravel3/
